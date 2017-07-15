@@ -33,7 +33,7 @@ namespace N1
 2-2 迴圈語法 (Console)
 2-3 繼承語法
 2-4 4 if 語法
-### k3
+### Wk3
 3-1. ASP.NET XSP4
 http://www.mono-project.com/docs/getting-started/mono-basics/
 3-2 ASP.NET 基本型
@@ -52,7 +52,7 @@ https://www.tutorialspoint.com/asp.net/asp.net_quick_guide.htm
 4-4 RWD 範例(bootstrap)
 https://getbootstrap.com/
 
-### k5
+### Wk5
 5-1. ASP.NET XSP4 (確認 asp.net 問題 1-1 檔案編碼 1-2 缺少套件 1-3 版本問題)
 http://www.mono-project.com/docs/getting-started/mono-basics/
 ASP.NET 基本型
