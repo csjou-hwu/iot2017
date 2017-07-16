@@ -1,22 +1,22 @@
 ﻿# iot2017
 ### Wk1
-1-1 下載安裝工具程式(mono)與Hello World 測試
-1-2 常用指令
-編譯 
-mcs xxx.cs   or mcs xxx.cs -pkg:dotnet
-執行
-mono xxx.exe
+	1-1 下載安裝工具程式(mono)與Hello World 測試
+	1-2 常用指令
+	編譯 
+	mcs xxx.cs   or mcs xxx.cs -pkg:dotnet
+	執行
+	mono xxx.exe
 
-螢幕複製
-cmd+shift+3
-文字複製
-cmd+c
-貼上
-cmd+v
-1-3 C# Basic structure
-using System;
-namespace N1
-{
+	螢幕複製
+	cmd+shift+3
+	文字複製
+	cmd+c
+	貼上
+	cmd+v
+	1-3 C# Basic structure
+	using System;
+	namespace N1
+	{
 	class C1
 	{
 		public static void Main()
@@ -24,11 +24,11 @@ namespace N1
 			Console.WriteLine("Hello");
 		}
 	}
-}
-1-4 表單應用程式(Hello World)
-1-5 表單控制項(Button)
+	}
+	1-4 表單應用程式(Hello World)
+	1-5 表單控制項(Button)
 ### Wk2
-2-1 Button 物件
+	2-1 Button 物件
     Button.Click 事件
 2-2 迴圈語法 (Console)
 2-3 繼承語法
